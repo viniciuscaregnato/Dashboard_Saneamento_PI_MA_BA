@@ -1,2 +1,2 @@
-# trabalho2_econometria
-obervar os dados do SNIS para os estados da Bahia, Piauí e Maranhão.
+# Dashboard_Saneamento_PI_MA_BA
+Este trabalho de Econometria apresenta um dashboard com painel relacionado ao saneamento básico dos estados da Bahia, Maranhão e Piauí.
